@@ -1,23 +1,30 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MuXiang123;Nice+to+meet+you!&size=30">
+  </a>
+</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuXiang123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huankang-zeng-563a0827b/)
+[![Static Badge](https://img.shields.io/badge/%E7%9F%A5-ZhiHu-blue)](https://www.zhihu.com/people/kant-47-25)
+<br>
+- 🔭 I’m currently working on China Mobile
+- 🌱 I’m currently learning Java and go
+- 🏛  I graduated from Dongguan City University majoring in software engineering
+- 🤔  I from Guangdong, China
+- 💡   I'm a passionate learner who's always willing to learn and work across technologies and domains
+- ✍️ [Blogger](https://www.zhihu.com/people/kant-47-25)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuXiang123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-**MuXiang123/MuXiang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2>⚡ Stats ⚡</h2>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuXiang123&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=MuXiang123&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+</p>
+<br>
 
