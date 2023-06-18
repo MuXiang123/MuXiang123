@@ -21,7 +21,7 @@
       <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuXiang123&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=MuXiang123&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" height=200 src="https://github-readme-stats.vercel.app/api?username=MuXiang123&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
