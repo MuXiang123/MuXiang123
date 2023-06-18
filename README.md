@@ -21,7 +21,7 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuXiang123&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=MuXiang123&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=MuXiang123&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
