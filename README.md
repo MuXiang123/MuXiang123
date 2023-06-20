@@ -4,9 +4,10 @@
   </a>
  
 </h1>
-![](https://komarev.com/ghpvc/?username=MuXiang123&label=Profile%20views&color=0e75b6&style=flat)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huankang-zeng-563a0827b/)
-[![Static Badge](https://img.shields.io/badge/%E7%9F%A5-ZhiHu-blue)](https://www.zhihu.com/people/kant-47-25)
+[![Static Badge](https://img.shields.io/badge/%E7%9F%A5-ZhiHu-blue)](https://www.zhihu.com/people/kant-47-25) 
+[![](https://komarev.com/ghpvc/?username=MuXiang123&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MuXiang123)
 <br>
 - 🔭 I’m currently working on China Mobile
 - 🌱 I’m currently learning Java and go
