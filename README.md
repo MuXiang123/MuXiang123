@@ -2,9 +2,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+MuXiang123;Nice+to+meet+you!&size=30">
   </a>
-  ![](https://komarev.com/ghpvc/?username=MuXiang123&label=Profile%20views&color=0e75b6&style=flat)
+ 
 </h1>
-
+![](https://komarev.com/ghpvc/?username=MuXiang123&label=Profile%20views&color=0e75b6&style=flat)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/huankang-zeng-563a0827b/)
 [![Static Badge](https://img.shields.io/badge/%E7%9F%A5-ZhiHu-blue)](https://www.zhihu.com/people/kant-47-25)
 <br>
