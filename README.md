@@ -14,7 +14,7 @@
 - 🏛  I graduated from Dongguan City University majoring in software engineering
 - 🤔  I from Guangdong, China
 - 💡   I'm a passionate learner who's always willing to learn and work across technologies and domains
-- ✍️ [Blogger](https://www.zhihu.com/people/kant-47-25)
+- ✍️ [My blog](https://muxiang123.github.io/)
 
 <h2>⚡ Stats ⚡</h2>
 <p align=center>
